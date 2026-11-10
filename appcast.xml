@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Klear</title>
+    <item>
+      <title>Klear 0.2.0</title>
+      <pubDate>Tue, 10 Nov 2026 16:41:42 -0600</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Klear&#x27;s first public release: noise removal for every meeting app, on-device call transcription, voice effects, a 14-day free trial, and automatic updates from here on.</p>]]></description>
+      <enclosure url="https://github.com/jackkeller/klear-releases/releases/download/v0.2.0/Klear-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="tu9pOGOSev+KU5Izk3pNq9/GR+huubo8l32NL1Y6vOPco6K/apAciCXG62mmNR7Ib1T0eVwhVKJutfoppMuhBw==" length="57695404"/>
+    </item>
   </channel>
 </rss>
