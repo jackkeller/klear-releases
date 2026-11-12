@@ -3,6 +3,15 @@
   <channel>
     <title>Klear</title>
     <item>
+      <title>Klear 0.2.2</title>
+      <pubDate>Wed, 11 Nov 2026 22:41:09 -0600</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>&quot;Test my mic&quot; now plays your recording back. In 0.2.1 it played 5 seconds of silence.</li><li>A setup guide opens the first time you launch Klear and walks you through installing Klear Mic, turning Klear on, picking Klear Mic in Zoom, Teams, Meet, Slack, FaceTime or Discord, and testing it.</li><li>Open Klear again from Finder or Spotlight, or choose Settings → Show Setup Guide, to bring the guide back any time.</li><li>Leave Klear&#x27;s Mic Mode in Control Center on Standard. Klear already removes the noise, and Voice Isolation on top of it can stall your Mac&#x27;s audio.</li></ul>]]></description>
+      <enclosure url="https://github.com/jackkeller/klear-releases/releases/download/v0.2.2/Klear-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="FvPpPfPz5TZxodrRFJqIkyrf4Uh+LF+oPAkrXofHds1awS8eLbpwbvXWM1Bbo85qi/yf7A/9d+bSTChIUDxPCg==" length="57850452"/>
+    </item>
+    <item>
       <title>Klear 0.2.1</title>
       <pubDate>Wed, 11 Nov 2026 20:04:00 -0600</pubDate>
       <sparkle:version>3</sparkle:version>
