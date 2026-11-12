@@ -3,6 +3,15 @@
   <channel>
     <title>Klear</title>
     <item>
+      <title>Klear 0.2.1</title>
+      <pubDate>Wed, 11 Nov 2026 20:04:00 -0600</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The call toast no longer gets lost when you drag it onto another display, and it comes back to your main screen if its display goes away.</li><li>&quot;Install Klear driver&quot; now sits at the top of the menu, where you&#x27;ll see it first.</li><li>&quot;Hear myself&quot; is now &quot;Test my mic&quot;: it records 5 seconds of exactly what your call hears, then plays it back, without the echo that live monitoring caused through speakers.</li></ul>]]></description>
+      <enclosure url="https://github.com/jackkeller/klear-releases/releases/download/v0.2.1/Klear-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="hytExSVA8XoxiEpQej5grqMamv3GGbsM0clVjJqNsu86lLIlNpBn1baSSRzvZT19U9MN6+ZEtPqEmU1UrmjjAg==" length="57697042"/>
+    </item>
+    <item>
       <title>Klear 0.2.0</title>
       <pubDate>Tue, 10 Nov 2026 16:41:42 -0600</pubDate>
       <sparkle:version>2</sparkle:version>
